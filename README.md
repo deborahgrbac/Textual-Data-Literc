@@ -13,7 +13,7 @@ Moreover nowadays, "Textual retrieval", or the ability to retrieve information f
 
 ## Data in general and in the programming language 
 
-Broadly speaking data can be quantitatives or qualitatives, or numbers vs. text, but if we consider the programming language, there are more data types. 
+Broadly speaking data can be quantitatives or qualitatives, or numbers vs. text (unstructured data), but if we consider the programming language, there are more data types. 
 For instance numbers can also be called "intergers", if whole numbers, or "floats" if they are measured in fractions. 
 Text, or textual data can be called "strings" and they consists in letters.
 
