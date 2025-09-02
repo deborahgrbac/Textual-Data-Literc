@@ -46,14 +46,12 @@ Computational literacy is the ability to use automatic analysis devices, knowing
 ## Python literacy, or the "Pythonic way"
 
 A piece of this literacy is all the instructions enabling people to use Phyton as an "empowering" instrument to do customized text analysis. Phyton being a programming language, learning to write codes is equivalent to learn a foreign language.
-"
-"\n",
- print "Hello word"\n",
 
-'''"" 
+
+```
    print "Hello word"
    
-   ""'''
+ ```
 
 
 ## Large Language Models Literacy
