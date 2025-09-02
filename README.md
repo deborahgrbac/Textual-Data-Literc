@@ -47,6 +47,9 @@ Computational literacy is the ability to use automatic analysis devices, knowing
 
 A piece of this literacy is all the instructions enabling people to use Phyton as an "empowering" instrument to do customized text analysis. Phyton being a programming language, learning to write codes is equivalent to learn a foreign language.
 
+   print "Hello word",
+
+
 ## Language Models Literacy
 
 AI applications have spread in different domains as for instance in scientific literature searching, this is entailing a new way to do bibliographic search ("systematic literature reviews") by exploring topics (Solveing et al., 2023). The problem is that most of the time services proposing systematic literature reviews are lacking in methodology transparency, frequently algorithms used to do systematic literature review are not open, but proprietary, and in many cases one does not know how the algorithms work and even where the search has been done (on which collection of texts). Huge are the consequences in terms of research accountability and reproducibility.
