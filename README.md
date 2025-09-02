@@ -24,11 +24,8 @@ A "list" is a way to store different data types, possibly million of items in a 
 ## Files and files formats
 
 Some kind of data file formats are:
-    "* Tabular data, or data organized in raws and colums, CSV files with the (.csv) extension, or Excel files (former proprietory now an open file format) with the .(.xlsx)\n",
-    "\n",
-    Unstructured data
-    "* Textual data, or text files with the extension (.txt) with only text and no formatting (a word file is a formatted one), Portable Document file with the extension (.pdf)\n",
-    "\n",
-    "* Images, of images contained in files, or JPG with the extension (.jpg), or (.png)\n",
-    "\n",
-    "* other files used for the data interchange: Markup HyperText Markup Language (.html), eXten
+
+Tabular data, or data organized in raws and colums, CSV files with the (.csv) extension, or Excel files (former proprietory, now an open file format) with the extension .(.xlsx)\n".
+
+Unstructured data, textual data, or text files with the extension (.txt) with only text and no formatting (a word file is a formatted one), Portable Document file with the extension (.pdf),
+Images, of images contained in files, or JPG with the extension (.jpg), or (.png)\n", other files used for the data interchange: Markup HyperText Markup Language (.html), eXten
