@@ -50,10 +50,10 @@ A piece of this literacy is all the instructions enabling people to use Phyton a
 "\n",
  print "Hello word"\n",
 
-  < "" 
+'''"" 
    print "Hello word"
    
-   "">
+   ""'''
 
 
 ## Large Language Models Literacy
