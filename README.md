@@ -95,7 +95,7 @@ Automatic Text Analysis Course (to be graually delivered on BlackBoard)
 3. Ciotti Fabio (edited by) “Digital Humanities. Metodi, strumenti, saperi”, Collana Studi superiori, n. 1376, Teoria della letteratura e critica letteraria Carocci editore, Roma, 2023
 4. Ciotti Fabio (edited by) “Digital Humanities. Metodi, strumenti, saperi”, Collana Studi superiori, n. 1376, Teoria della letteratura e critica letteraria Carocci editore, Roma, 2023\n",
 5. Passarotti, Marco “Computational Thinking. Dall’automazione alla svolta computazionale nelle scienze umanistiche”, slides presented on 6th May 2022 to the Conference «Humanism and Digitization. Theory and Practical Achievements», at Università Cattolica del Sacro Cuore, Milano, at disposal at page: https://zenodo.org/record/6517625#.Yxr973ZByUk
-6. Vils Anne, Lorna Widgaard, Solveig Sandal Johnsen "AI-powered software for literature searching: potential for libraries", June 2023, slides at disposal at page: https://www.inconecss.eu/wp-content/uploads/2023/06/23-06-12-johnsen.pdf"
+6. Vils Anne, Lorna Widgaard, Solveig Sandal Johnsen "AI-powered software for literature searching: potential for libraries", June 2023, slides at disposal at page: https://www.inconecss.eu/wp-content/uploads/2023/06/23-06-12-johnsen.pdf
 
 For any question please write an email to: deborah.grbac@unicatt.it.
 
