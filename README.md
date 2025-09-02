@@ -4,9 +4,12 @@ Data literacy for textual analysis
 Data Litercy 
 
 Digital or data literacy can be defined as a way to think critically about data, or numbers issued by analysis. 
+
 Textual data literacy is the ability to transform automatically big quantities of text into numerical data through applied statistical methods.
+
 The ACRL (Association of College Research Libraries) already in 2015 advised to go beyond information literacy, incorporating also data information literacy to courses addressed to students. 
-Moreover nowadays, "Textual retrieval", or the ability to retrieve information from information extracted from texts, is considered relevant, to inferr from textual data analysis trends and patterns about contents.\n",
+
+Moreover nowadays, "Textual retrieval", or the ability to retrieve information from information extracted from texts, is considered relevant, to inferr from textual data analysis trends and patterns about contents.
     "\n",
     "## Data types \n",
     "Broadly speaking data can be quantitatives or qualitatives, or numbers vs. text, but there are more data types if we consider the programming language. For instance numbers can also be called \"intergers\", if whole numbers, or \"floats\" if they are measured in fractions. Text, or textual data can be called \"Strings\" and they consists in letters.\n",
