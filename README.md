@@ -56,7 +56,7 @@ A piece of this literacy is all the instructions enabling people to use Phyton a
    ""
 
 
-## Language Models Literacy
+## Large Language Models Literacy
 
 AI applications have spread in different domains as for instance in scientific literature searching, this is entailing a new way to do bibliographic search ("systematic literature reviews") by exploring topics (Solveing et al., 2023). The problem is that most of the time services proposing systematic literature reviews are lacking in methodology transparency, frequently algorithms used to do systematic literature review are not open, but proprietary, and in many cases one does not know how the algorithms work and even where the search has been done (on which collection of texts). Huge are the consequences in terms of research accountability and reproducibility.
 
@@ -68,7 +68,7 @@ For instance Hugging face is a repository of open source language models that ca
 
 Definition of APIs and their use nowadays.
 
-    "## RAG, Retrieval Augmented Generation pipeline\n",
-    "\n",
-    "RAG literacy is useful to make LLMs more performant and to avoid hallucinations. In the pipeline the model is trained on specific data (a customized knowledge base) as to use them to answer to the question and not the commonly webscraped source of information. More accurate information used enables to be more precise in the answering.\n",
+## RAG, Retrieval Augmented Generation pipeline
+
+RAG literacy is useful to make LLMs more performant and to avoid hallucinations. In the pipeline the model is trained on specific data (a customized knowledge base) as to use them to answer to the question and not the commonly webscraped source of information. More accurate information used enables to be more precise in the answering.
     
