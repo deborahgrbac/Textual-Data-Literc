@@ -11,7 +11,7 @@ The ACRL (Association of College Research Libraries) already in 2015 advised to 
 
 Moreover nowadays, "Textual retrieval", or the ability to retrieve information from information extracted from texts, is considered relevant, to inferr from textual data analysis trends and patterns about contents.
 
-## Data in general and in the programming language 
+## Data fromats in general and in the programming language in particular
 
 Broadly speaking data can be quantitatives or qualitatives, or numbers vs. text (unstructured data), but if we consider the programming language, there are more data types. 
 For instance numbers can also be called "intergers", if whole numbers, or "floats" if they are measured in fractions. 
