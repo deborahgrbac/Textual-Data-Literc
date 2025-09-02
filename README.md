@@ -49,7 +49,7 @@ A piece of this literacy is all the instructions enabling people to use Phyton a
 
 
 ```
-   print "Hello word"
+   print ("Hello word")
    
  ```
 
