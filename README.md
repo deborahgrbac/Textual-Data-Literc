@@ -98,28 +98,8 @@ Automatic Text Analysis Course (to be graually delivered on BlackBoard
     "5. <a id=\"2\"></a> Constellate website: https://www-constellate-org.ezproxy.unicatt.it \n",
     "6. <a id=\"2\"></a> Passarotti, Marco “Computational Thinking. Dall’automazione alla svolta computazionale nelle scienze umanistiche”, slides presentate il 6. maggio 2022, al convegno «Humanism and Digitization. Theory and Practical Achievements», at Università Cattolica del Sacro Cuore, Milano, at disposal at page: https://zenodo.org/record/6517625#.Yxr973ZByUk\n",
     "7. <a id=\"2\"></a> Vils Anne, Lorna Widgaard, Solveig Sandal Johnsen \"AI-powered software for literature searching: potential for libraries\", June 2023, slides at disposal at page: https://www.inconecss.eu/wp-content/uploads/2023/06/23-06-12-johnsen.pdf"
-   ]
-  },
-  {
-   "cell_type": "raw",
-   "id": "09191130-319d-49a9-b70a-60abb7e9b8c7",
-   "metadata": {
-    "execution": {
-     "iopub.execute_input": "2023-10-03T13:16:31.743202Z",
-     "iopub.status.busy": "2023-10-03T13:16:31.742605Z",
-     "iopub.status.idle": "2023-10-03T13:16:31.747084Z",
-     "shell.execute_reply": "2023-10-03T13:16:31.746358Z",
-     "shell.execute_reply.started": "2023-10-03T13:16:31.743179Z"
-    },
-    "tags": []
-   },
-   "source": [
-    "# Announcement\n",
-    "\n",
-    "Ongoing Python and LLMs education is the \"Skill-Build Programme\" for information and registration: https://constellate.org/skill-build.\n",
-    "\n",
-    "For any question please write an email to: deborah.grbac@unicatt.it.\n"
-   ]
-  }
- ],
+
+For any question please write an email to: deborah.grbac@unicatt.it.
+
+
 
