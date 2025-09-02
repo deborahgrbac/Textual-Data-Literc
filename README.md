@@ -1,7 +1,7 @@
 # Textual-Data-Literc
 Data literacy for textual analysis
 
-Data Litercy 
+## Data Litercy 
 
 Digital or data literacy can be defined as a way to think critically about data, or numbers issued by analysis. 
 
