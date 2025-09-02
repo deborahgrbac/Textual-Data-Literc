@@ -71,4 +71,12 @@ Definition of APIs and their use nowadays.
 ## RAG, Retrieval Augmented Generation pipeline
 
 RAG literacy is useful to make LLMs more performant and to avoid hallucinations. In the pipeline the model is trained on specific data (a customized knowledge base) as to use them to answer to the question and not the commonly webscraped source of information. More accurate information used enables to be more precise in the answering.
-    
+
+
+## Information Retrieval on a set of documents hosted in a database is not Information Extraction on an assembled corpus
+
+Doing Information Retrieval on a database one can have an idea about contents, one can use meta-data to filter information, but still one has only some hints on a delimited contents. It is a way to do literature search on specific database, but not a systematic literature review on a topic.
+
+An alternative is to build one's own corpus and uphold it to the platform. Two choices are possible: formatting data as the one in Jstor Archive to use Constellate Jupyter notebooks to do the analysis, or use the Constellate Lab to write down your won personal notebooks to do the analysis.
+   ]
+  },
