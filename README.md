@@ -13,15 +13,17 @@ Moreover nowadays, "Textual retrieval", or the ability to retrieve information f
 
 ## Data in general and in the programming language 
 
-Broadly speaking data can be quantitatives or qualitatives, or numbers vs. text (unstructured data), but if we consider the programming language, there are more data types. 
-For instance numbers can also be called "intergers", if whole numbers, or "floats" if they are measured in fractions. 
-Text, or textual data can be called "strings" and they consists in letters.
+Broadly speaking data can be quantitatives or qualitatives, or in other words numbers or texts (unstructured data), howether if we consider the programming language, there are more kind of data, or "data types". 
+For instance numbers are "intergers", if whole numbers, or "floats" if they are measured in fractions. 
+Text, or textual data can be called "strings", as they consist in letters (for a computer simply signs).
 
-In a "flow control", or the line of commands asking the computer to perform something, the result of the application of boolean operators (AND, OR, NOT) can results in two other data types: TRUE or FALSE.
+In a "flow control", or the line of commands asking the computer to perform something, the result of the application of boolean operators (AND, OR, NOT) produces two other data types: TRUE or FALSE.
 
-A "list" is a way to store different data types and million of items in a ordered way. Finally a \"data structure\" is how information can be stored inside a program.\n",
-    "\n",
-    "## Some data file formats \n",
+A "list" is a way to store different data types, possibly million of items in a ordered way, and a "data structure" is how information can be stored inside a program.
+
+## Files and files formats
+
+Some kind of data file formats are:
     "* Tabular data, or data organized in raws and colums, CSV files with the (.csv) extension, or Excel files (former proprietory now an open file format) with the .(.xlsx)\n",
     "\n",
     Unstructured data
