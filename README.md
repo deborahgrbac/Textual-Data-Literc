@@ -1,5 +1,6 @@
 # Textual-Data-Literc
 Data literacy for textual analysis
+by Deborah Grbac
 
 ## Data Litercy 
 
