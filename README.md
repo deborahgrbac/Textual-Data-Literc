@@ -1,12 +1,6 @@
 # Textual-Data-Literc
 Data literacy for textual analysis
- {
-   "cell_type": "markdown",
-   "id": "69a84ad1-7b94-40d5-a0c9-a97addf413c4",
-   "metadata": {
-    "jp-MarkdownHeadingCollapsed": true
-   },
-   "source": [
+
     "# Data Litercy \n",
     "\n",
     "   \n",
